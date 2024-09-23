@@ -9,7 +9,7 @@ Currently completing a master Cryptology and Computer Security at Bordeaux Unive
 
 I previously graduate from a Computer Science and Mathematics Bachelor in 2023 at Bordeaux University, France.
 
-[Courses followed](./courses.html).
+[Courses followed](./courses.html)
 
 ## Projects:
 
