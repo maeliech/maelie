@@ -20,7 +20,7 @@ During my studies I had the opportunity to work on a opensource project called L
 **RootMe**: app-script, app-system
 I really enjoy working on the app-system challenges.
 
-[RootMe account](./https://www.root-me.org/maengo?lang=eng)
+<a href="https://www.root-me.org/maengo?lang=eng"> RootMe Account </a>
 
 **HackTheBox**
 
