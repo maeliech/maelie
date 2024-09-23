@@ -31,4 +31,4 @@ I am interested in science, computer science, biology and astronomy. I also enjo
 [Photographs](./photos.html).
 
 # Links:
-[LinkedIn](./[courses.html](https://www.linkedin.com/in/maëlie-chan-peng-548a04327/))
+<a href="https://www.linkedin.com/in/maëlie-chan-peng-548a04327/">  LinkedIn </a>
