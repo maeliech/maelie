@@ -28,7 +28,7 @@ I really enjoy working on the app-system challenges.
 * * *
 I am interested in science, computer science, biology and astronomy. I also enjoy reading, traveling, learning new languages and photography.
 
-[Photographs](./photos.html)
+[Photographs](./photographs.html)
 
 # Links:
 <a href="https://www.linkedin.com/in/maëlie-chan-peng-548a04327/">  LinkedIn </a>
