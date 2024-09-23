@@ -41,6 +41,8 @@ During my free time, I enjoy diving into books and staying updated with the late
 
 
 # Links:
+* * *
+
 <a href="https://www.linkedin.com/in/maëlie-chan-peng-548a04327/">  LinkedIn </a>
 <br>
 <a href="https://github.com/maeliech">  Github profile </a>
