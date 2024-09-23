@@ -32,6 +32,7 @@ I really enjoy working on the app-system challenges.
 * <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/devnet/associate/index.html#tabs-35d568e0ff-item-194f491212-tab" > CISCO DevNet Associate </a>
 * <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cyberops/cyberops-associate/index.html#tabs-35d568e0ff-item-194f491212-tab" > CISCO CyberOps Associate </a>
 
+<br>
 
 # Personal:
 * * *
