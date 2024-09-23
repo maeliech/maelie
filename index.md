@@ -27,6 +27,12 @@ I really enjoy working on the app-system challenges.
 
 **HackTheBox**
 
+## Certifications:
+
+* <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/devnet/associate/index.html#tabs-35d568e0ff-item-194f491212-tab" > CISCO DevNet Associate </a>
+* <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cyberops/cyberops-associate/index.html#tabs-35d568e0ff-item-194f491212-tab" > CISCO CyberOps Associate </a>
+
+
 # Personal:
 * * *
 I’m passionate about exploring new places and cultures. I love learning new languages which is why I chose to enroll in an International Track Bachelor allowing me to participate in a student exchange in Incheon, Korea. 
