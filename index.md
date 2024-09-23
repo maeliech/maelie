@@ -30,7 +30,9 @@ I am interested in science, computer science, biology and astronomy. I also enjo
 
 # Links:
 <a href="https://www.linkedin.com/in/maëlie-chan-peng-548a04327/">  LinkedIn </a>
+<br>
 <a href="https://github.com/maeliech">  LinkedIn </a>
+<br>
 <a href="https://www.root-me.org/maengo?lang=eng"> RootMe Account </a>
 
 
