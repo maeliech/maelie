@@ -7,36 +7,36 @@ layout: default
 
 ## Master 2: Cryptology and Computer Security
 
-_#### Computer Science:_
+#### _Computer Science:_
 
 *   OS security
 *   Networks Security
 
-_#### Mathematics:_
+#### _Mathematics:_
 
 *   Cryptanalysis
 
-_#### Hyrbid:_
+#### _Hyrbid:_
 
 *   SmartCards
 *   Software Verification
 
 ## Master 1: Cryptology and Computer Security
 
-_#### Computer Science:_
+#### _Computer Science:_
 
 *   C programming
 *   Object Oriented Programming (Java)
 *   Software Security
 *   Data analysis and classification
 
-_#### Mathematics:_
+#### _Mathematics:_
 
 *   Arithmetic
 *   Formal Algebra
 *   Information Theory
 
-_#### Hyrbid:_
+#### _Hyrbid:_
 
 *   Cryptology
 *   Computational Complexity Theory
@@ -48,7 +48,7 @@ Completed with High Honors
 
 ### Exchange year at Inha University in Incheon, Korea:
 
-_#### Computer Science:_
+#### _Computer Science:_
 
 *   Computer Security
 *   Object Oriented Programming (C++)
@@ -60,7 +60,7 @@ _#### Computer Science:_
 *   Big Data Physics
 
 
-_#### Other:_
+#### _Other:_
 
 *   Basic Intermediate Korean
 *   Korean Culture Through Films
@@ -69,14 +69,14 @@ _#### Other:_
 
 Half of the classes were conducted in English.
 
-_#### Computer Science:_
+#### _Computer Science:_
 
 *   C, Python programming
 *   Data Structures
 *   Functional Programing (ocaml)
 *   Artificial Intelligence
 
-_#### Mathematics:_
+#### _Mathematics:_
 
 *   Algebraic Structures
 *   Linear Algebra
