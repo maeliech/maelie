@@ -13,7 +13,13 @@ I previously graduate from a Computer Science and Mathematics Bachelor in 2023 a
 
 ## Projects:
 
-During my studies I had the opportunity to work on a opensource project called Libslirp. The goal of the project was to learn about fuzzing and then pursuing the implementation of the fuzzers for Libslirp under Samuel Thibault.
+During my studies I had the opportunity to work on various projects such as:
+
+* g
+* h
+* a
+
+[More here](./projects.html)
 
 ## Challenges:
 
