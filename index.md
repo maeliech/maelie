@@ -15,9 +15,8 @@ I previously graduate from a Computer Science and Mathematics Bachelor in 2023 a
 
 During my studies I had the opportunity to work on various projects such as:
 
-* g
-* h
-* a
+* Fuzzing the TCP/IP stack in user-mode
+* Implementing a sudoku solver/grid generator (C)
 
 [More here](./projects.html)
 
