@@ -24,9 +24,10 @@ I really enjoy working on the app-system challenges.
 
 # Personal:
 * * *
-I am interested in science, computer science, biology and astronomy. I also enjoy reading, traveling, learning new languages and photography.
+I’m passionate about exploring new places and cultures. I love learning new languages which is why I chose to enroll in an International Track Bachelor allowing me to participate in a student exchange in Incheon, Korea. 
+<br>
+During my free time, I enjoy diving into books and staying updated with the latest cybersecurity news. I also have a keen interest astronomy.
 
-[Photographs](./photographs.html)
 
 # Links:
 <a href="https://www.linkedin.com/in/maëlie-chan-peng-548a04327/">  LinkedIn </a>
