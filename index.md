@@ -20,8 +20,6 @@ During my studies I had the opportunity to work on a opensource project called L
 **RootMe**: app-script, app-system
 I really enjoy working on the app-system challenges.
 
-<a href="https://www.root-me.org/maengo?lang=eng"> RootMe Account </a>
-
 **HackTheBox**
 
 # Personal:
@@ -32,3 +30,7 @@ I am interested in science, computer science, biology and astronomy. I also enjo
 
 # Links:
 <a href="https://www.linkedin.com/in/maëlie-chan-peng-548a04327/">  LinkedIn </a>
+<a href="https://github.com/maeliech">  LinkedIn </a>
+<a href="https://www.root-me.org/maengo?lang=eng"> RootMe Account </a>
+
+
