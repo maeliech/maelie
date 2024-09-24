@@ -5,9 +5,9 @@ layout: default
 # Studies:
 * * *
 
-Currently completing a master Cryptology and Computer Security at Bordeaux University, France. This master combines mathematics and computer science.
+Currently completing a master **Cryptology and Computer Security** at Bordeaux University, France. This master combines mathematics and computer science.
 
-I previously graduate from a Computer Science and Mathematics Bachelor in 2023 at Bordeaux University, France.
+I previously graduate from a **Computer Science and Mathematics Bachelor** in 2023 at Bordeaux University, France.
 
 [Courses followed](./courses.html)
 
