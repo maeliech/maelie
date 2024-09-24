@@ -31,6 +31,6 @@
 
 #### 2021: 
 
-* Artificial Intelligence: Fake Job Postings (<a href="https://github.com/maeliech/Bachelor2020_2022/blob/main/ArtificialIntelligence/ANN_L2_AI.ipynb" > project here </a>)
+* **Artificial Intelligence**: Fake Job Postings (<a href="https://github.com/maeliech/Bachelor2020_2022/blob/main/ArtificialIntelligence/ANN_L2_AI.ipynb" > project here </a>)
 
 [back](./)
