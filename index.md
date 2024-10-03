@@ -40,6 +40,17 @@ I’m passionate about exploring new places and cultures. I love learning new la
 <br>
 During my free time, I enjoy diving into books and staying updated with the latest cybersecurity news. I also have a keen interest astronomy.
 
+### Community activities:
+
+Member of the student associations at the University of Bordeaux:
+* Computer science association: Label[i] (programming, events related to video games)
+* Astronomy association (conferences, observation camps)
+
+At Inha University (South Korea) :
+* AZIT: cultural and linguistic exchanges mixing foreigner and korean students
+
+### Sports:
+Horse riding
 
 # Links:
 * * *
