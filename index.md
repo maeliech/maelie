@@ -25,7 +25,15 @@ During my studies I had the opportunity to work on various projects such as:
 **RootMe**: app-script, app-system
 I really enjoy working on the app-system challenges.
 
-**HackTheBox**
+## Tools:
+
+Through personal activities and practical labs I got familiar with various tools.
+
+**Cybersecurity and network tools**: Wireshark, Metasploit, Kali Linux, NMap, John the Ripper, TCPDUMP, BurpSuite, Ghidra
+
+**Debugging and optimization**: GDB, Valgrind, Strace
+
+**IDE and editors**: VSCode, Eclipse, Spyder, VIM, 
 
 ## Certifications:
 
