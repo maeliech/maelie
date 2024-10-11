@@ -11,6 +11,7 @@ I previously graduate from a **Computer Science and Mathematics Bachelor** in 20
 
 [Courses followed](./courses.html)
 
+
 ## Projects:
 
 During my studies I had the opportunity to work on various projects such as:
@@ -20,19 +21,19 @@ During my studies I had the opportunity to work on various projects such as:
 
 [More here](./projects.html)
 
+
 ## Challenges:
 
 **RootMe**: app-script, app-system
 I really enjoy working on the app-system challenges.
+
 
 ## Tools:
 
 Through personal activities and practical labs I got familiar with various tools.
 
 **Cybersecurity and network tools**: Wireshark, Metasploit, Kali Linux, NMap, John the Ripper, TCPDUMP, BurpSuite, Ghidra
-
 **Debugging and optimization**: GDB, Valgrind, Strace
-
 **IDE and editors**: VSCode, Eclipse, Spyder, VIM, 
 
 ## Certifications:
